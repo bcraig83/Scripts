@@ -1,7 +1,9 @@
 # CleanTimeSnapper #
 
 
-- Write a script to sanitize TimeSnapper recordings
+## Intention ##
+
+- Write a script to sanitize TimeSnapper recordings, removing any windows that you are not interested in. This is to cut down on the amount of space used, and also remove any items that you do not want kept for whatever reason.
 	- HabitRPG
 	- Gmail
 	- Football365
@@ -27,9 +29,9 @@
 	End loop
 
 
-## Design options ##
+## Usage ##
 
-Could use powershell or autohotkey.
+Whichever windows you want to delete from your TimeSnapper, just add them to the "RemoveThese.txt" file. Then run the executable file "CleanTimeSnapper.exe". This only works for today's date, so it's recommended to set it up as a daily task under Windows Task Scheduler.
 
 ## Useful links ##
 
