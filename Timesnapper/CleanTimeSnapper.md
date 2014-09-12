@@ -29,7 +29,7 @@
 
 ## Design options ##
 
-Could use powershell or autohotkey. If using autohotkey, can use "Macro Creator", (www.macrocreator.com)
+Could use powershell or autohotkey.
 
 ## Useful links ##
 
