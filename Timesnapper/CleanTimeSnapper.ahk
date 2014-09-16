@@ -1,4 +1,6 @@
-Send, {LWin Down}{s}{LWin Up}{b}
+Send, {LWin Down}{s}{LWin Up}
+Sleep, 1000
+Send, {b}
 
 Loop, read, RemoveThese.txt
 {
