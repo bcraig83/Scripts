@@ -17,4 +17,5 @@ IfWinNotExist, %rdcmWindowString%
 WinWaitActive, %rdcmWindowString%
 Click 100, 500
 
-Send, %1% {Enter}
+Send, %1%
+Send, !sc
