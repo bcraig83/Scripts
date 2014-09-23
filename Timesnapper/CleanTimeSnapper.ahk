@@ -4,7 +4,7 @@ Send, {b}
 
 Loop, read, RemoveThese.txt
 {
-	Sleep, 1000
+	Sleep, 2000
 	Send, {LControl Down}{f}{LControl Up}
 	SetKeyDelay, 0
 	; MsgBox, %A_LoopReadLine%
