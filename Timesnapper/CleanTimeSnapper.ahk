@@ -1,4 +1,4 @@
-Send, {LWin Down}{s}{LWin Up}
+Send, {LWin Down}{n}{LWin Up}
 Sleep, 1000
 Send, {b}
 
